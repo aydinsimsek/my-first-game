@@ -5,7 +5,7 @@
 
 # Keyboard Configuration
 | Key   | Usage      |
-| ---   | ---:       | 
+| :---: | :---:      | 
 | SPACE | Shoot      |
 | ↑     | Jump       |
 | ←     | Move left  |
